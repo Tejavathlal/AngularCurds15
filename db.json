@@ -1,0 +1,63 @@
+{
+  "enquiry": [
+    {
+      "firstName": "Tejavath",
+      "lastName": "Mangilal",
+      "email": "tejalal0606@gmail.com",
+      "mobile": 9441923519,
+      "weight": 65,
+      "height": 1.6,
+      "bmi": 25.390624999999996,
+      "bmiResult": "Overweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Quarterly",
+      "important": [
+        "Toxic Fat reduction",
+        "Energy and Endurance",
+        "Building Lean Muscle"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-10-18T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "firstName": "Tejavath",
+      "lastName": "Mangilal",
+      "email": "tejalal0606@gmail.com",
+      "mobile": 9441923519,
+      "weight": "",
+      "height": "",
+      "bmi": "",
+      "bmiResult": "",
+      "gender": "",
+      "requireTrainer": "",
+      "package": "",
+      "important": "",
+      "haveGymBefore": "",
+      "enquiryDate": "",
+      "id": 2
+    },
+    {
+      "firstName": "Tejavath",
+      "lastName": "Harilal",
+      "email": "tejalal0606@gmail.com",
+      "mobile": 7893024985,
+      "weight": 85,
+      "height": 175,
+      "bmi": 0.002775510204081633,
+      "bmiResult": "Underweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Yearly",
+      "important": [
+        "Healthier Digestive System",
+        "Sugar Craving Body",
+        "Fitness"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-10-17T18:30:00.000Z",
+      "id": 4
+    }
+  ]
+}
